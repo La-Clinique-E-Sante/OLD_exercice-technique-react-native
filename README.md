@@ -10,7 +10,7 @@ Pas besoin ici de se connecter à une base de données pour conserver les messag
 Quand vous aurez terminé l'exercice veuillez uploader le code sur un repository GitHub public et nous partager le lien.
 
 ## Lien utile
-Un figma publique d'une reproduction simple de l'application WhatsApp si vous avez besoin d'inspiration pour l'UI.
+Un figma public d'une reproduction simple de l'application WhatsApp si vous avez besoin d'inspiration pour l'UI.
 https://www.figma.com/community/file/874576344344319149
 
 ## A savoir
